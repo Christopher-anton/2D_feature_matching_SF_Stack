@@ -1,0 +1,4 @@
+| Detector + Descriptor |Total Keypoints |Total Matches |Total Time (ms) |Ratio (matches/time) |
+|:---:|:----:|:-----:|:-----:|:-----:|
+| SHITOMASI + BRISK |1067463791 |1067456440 |290.036 |3.68042e+06 |
+| SHITOMASI + BRISK |-1073528785 |6072 |256294 |0.0236916 |
